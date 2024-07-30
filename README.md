@@ -18,7 +18,7 @@ It shows Transaction History, Deposit, Withdraw, Balance, Transfer function.
 *Tool and Technology*
 -
 - Java 20
-- IntelliJ Idea Community Edition 2023
+- IntelliJ Idea Community Edition 2024
 
 *Setting up*
 -
